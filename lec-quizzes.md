@@ -589,7 +589,7 @@ _Select all that apply._
 - Seems ok...
 
 
-## Quiz 9
+## Lec 9
 ### Question 1
 **Consider the following scenario:**
 
@@ -704,3 +704,98 @@ _Select all that apply._
 **Correct Answer:** 
 - Low-fidelity prototypes enable designers to explore and discard unpromising design ideas early in the process.
 
+## Lec 11
+
+### Question 1
+**What is simplified user testing good for?**  
+_Select all that apply._
+
+- [x] Evaluating low-fidelity prototypes.
+- [x] Evaluating high-fidelity prototypes.
+- [x] Evaluating qualitative requirements.
+- [ ] Evaluating quantitative requirements.
+- [x] Evaluating usability requirements.
+
+**Correct Answers:**  
+- Evaluating low-fidelity prototypes.  
+- Evaluating high-fidelity prototypes.  
+- Evaluating qualitative requirements.  
+- Evaluating usability requirements.
+
+## Lec 12
+
+### Question 1
+**What is heuristic evaluation good for? Select all that apply.**
+
+- Evaluating low-fidelity prototypes.
+- Evaluating high-fidelity prototypes.
+- Evaluating qualitative requirements.
+- Evaluating quantitative requirements.
+- Evaluating usability requirements.
+
+**Correct Answers:**
+- Evaluating high-fidelity prototypes.
+- Evaluating low-fidelity prototypes.
+- Evaluating usability requirements.
+
+### Question 2
+**What are the main differences between simplified user testing and heuristic evaluation? Select all that apply.**
+
+- Heuristic evaluation is performed with a larger number of participants than simplified user testing.
+- Heuristic evaluation results are always more reliable than those from simplified user testing since it follows a structured process.
+- Heuristic evaluation often uncovers deeper usability insights since it involves direct interaction with users.
+- Simplified user testing captures real user behaviors and issues, whereas heuristic evaluation identifies potential usability issues based on predefined heuristics.
+
+**Correct Answers:**
+- Simplified user testing captures real user behaviors and issues, whereas heuristic evaluation identifies potential usability issues based on predefined heuristics.
+
+## Lec 13
+
+### Question 1
+
+Consider the following scenario: Researchers are testing two versions of a virtual assistant: one that offers brief responses and another that provides detailed explanations. Participants are invited to a lab, where they interact with both versions. They are instructed to ask a pre-defined set of questions, such as “What time is it in Tokyo?” and “How do I connect my phone to Wi-Fi?”. The order of the versions is randomized to prevent learning effects. Researchers measure response time through system logs and user satisfaction via post-interaction surveys. 
+
+**Which of the following aspects of this experiment may reduce its ecological validity?**
+
+- The participants ask only pre-selected questions, which may not reflect the full variety of inquiries users typically make in their daily interactions.
+- The experiment takes place in a controlled lab environment, which doesn’t account for interruptions or distractions that occur in real-world usage.
+- Participants interact with both versions of the assistant in a back-to-back setup, which may not reflect how users engage with virtual assistants at different times throughout the day.
+- Participants know they are being observed, which may change how they interact with the virtual assistant compared to unmonitored, everyday use
+
+**Correct Answer:**
+All of the above
+
+## Lec 14
+
+### Question 1
+
+Consider the following scenario:
+
+Suppose you are evaluating your new virtual keyboard (intervention) compared to a baseline. You want to show that your design is faster and more accurate the first time users type on it. You have already settled on the study design: participants will transcribe text using the two keyboards in a single 1 hour long session (30 mins per keyboard). Participants will enter text on both keyboards, thus you picked a within-subject design.
+
+**What test would you run to analyze typing speed? Select all that apply. (Hint: note that there could be more than one test that applies; you would still run only one test, though).**
+
+- One-way ANOVA 
+- Unpaired t-test 
+- Pairwise t-test 
+- Mann-Whitney 
+- Wilcoxon
+
+**Correct Answer:**
+- Pairwise t-test
+- Wilcoxon
+
+## Question 2
+
+**What test would you run to analyze error rate?  (Hint: note that there could be more than one test that applies; you would still run only one test, though).**
+
+- One-way ANOVA
+- Unpaired t-test
+- Pairwise t-test
+- Mann-Whitney
+- Wilcoxon
+
+**Correct Answer:**
+- Mann-Whitney
+- Wilcoxon
+  

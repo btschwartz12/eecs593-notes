@@ -347,3 +347,86 @@ _Select the best answer._
 
 **Correct Answer:** Vertical
 
+## Quiz 5
+
+### Question 1
+**A researcher wanted to compare two designs and set the significance level (alpha) to 0.05. After conducting the study, they found a Cohen's d effect size of 0.5 (a medium effect size) and a p-value of 0.1. What can the researcher conclude about the study? Select all that apply.**
+
+- [ ] The researcher can conclude that there is no difference between the designs since the result is not statistically significant.
+- [x] The medium effect size suggests there may be a meaningful difference between the designs, even though it was not statistically significant.
+- [x] A medium effect size with a p-value above 0.05 suggests the study may lack sufficient power to detect a significant difference.
+- [x] The result is not statistically significant at the 0.05 level, so the researcher cannot conclude there is a difference between the designs.
+- [ ] The p-value of 0.1 is close enough to the alpha level that the researcher should consider the result statistically significant.
+
+**Correct Answers:**
+- The medium effect size suggests there may be a meaningful difference between the designs, even though it was not statistically significant.
+- A medium effect size with a p-value above 0.05 suggests the study may lack sufficient power to detect a significant difference.
+- The result is not statistically significant at the 0.05 level, so the researcher cannot conclude there is a difference between the designs.
+
+---
+
+### Question 2
+**In an HCI study, a researcher tests whether a new interface design significantly improves task completion time compared to an existing design. The researcher plots the data and observes that the confidence intervals around the means for the two designs do not overlap. What conclusion can the researcher draw?**
+
+- [x] Nonoverlapping confidence intervals suggest there may be a statistically significant difference between the two designs, but a formal statistical test is still needed to confirm this.
+- [ ] Nonoverlapping confidence intervals mean that the new design is significantly better in terms of task completion time.
+- [ ] Nonoverlapping confidence intervals prove that there is a statistically significant difference in task completion time between the two designs.
+- [ ] Nonoverlapping confidence intervals indicate that the task completion times for the two designs are equal.
+
+**Correct Answer:** Nonoverlapping confidence intervals suggest there may be a statistically significant difference between the two designs, but a formal statistical test is still needed to confirm this.
+
+---
+
+### Question 3
+**In a usability study, researchers compare two versions of a mobile app interface to see if one leads to faster task completion times. The study yields a statistically significant difference in task completion times between the two versions. What additional information should the researchers consider before recommending the new interface?**
+
+- [ ] The total number of participants, as more participants would guarantee that the result is important in real life.
+- [ ] The p-value is sufficient, as statistical significance confirms that the new interface is objectively better.
+- [ ] The mean difference, as a higher mean difference always implies a practical improvement.
+- [x] The effect size, as it indicates whether the observed difference is large enough to be meaningful in a real-world setting.
+
+**Correct Answer:** The effect size, as it indicates whether the observed difference is large enough to be meaningful in a real-world setting.
+
+---
+
+### Question 4
+**A researcher is investigating how screen brightness and notification frequency affect users' ability to focus on a computer-based task. Each participant completes a concentration task under different combinations of screen brightness (low, medium, high) and notification frequency (no notifications, infrequent, frequent). Participants experience all combinations of these conditions, and their concentration levels are measured after each task. What type of experimental design is being used?**
+
+- [x] Within-subjects, repeated measures
+- [ ] Mixed design, partial factorial
+- [ ] Between-subjects, partial factorial
+- [ ] Between-subjects, full factorial
+
+**Correct Answer:** Within-subjects, repeated measures
+
+---
+
+### Question 5
+**Consider the following scenario.**
+
+_Suppose a designer wants to show that their new keyboard (called maxi-QWERTY) that they have designed has a lower text entry error rate than two existing baselines. In their study, each participant tries all three keyboard types: 1) mini-QWERTY keyboard where the participant can only enter text by pressing on individual keyboard keys, and 2) mini-QWERTY keyboard where the participant can only swipe to enter text._
+
+**What statistical analysis test should the designer pick to evaluate their design? Select the best answer. (Hint: consult Yatani's table; link was provided in the lecture.)**
+
+- [x] Friedman test, followed by pairwise comparison using Wilcoxon tests.
+- [ ] Repeated-measures ANOVA, followed by pairwise comparison using paired t-tests.
+- [ ] Just two paired t-tests, each to compare the intervention with one of the baselines.
+- [ ] The designer should not use a statistical analysis test because the best study design for evaluating their keyboard will not have enough participants to reach statistically significant results.
+
+**Correct Answer:** Friedman test, followed by pairwise comparison using Wilcoxon tests.
+
+---
+
+### Question 6
+**An online learning platform aims to foster a culture of constructive feedback in its user forums. Which of the following strategies best reinforces descriptive norms to encourage this behavior? Select all that apply.**
+
+- [ ] Adding a warning message that users who post unconstructive comments may be banned.
+- [x] Highlighting and displaying constructive comments prominently on the homepage, so users see examples of positive engagement.
+- [x] Hiding comments that may contain unconstructive criticism until reviewed by moderators.
+- [ ] Posting a reminder at the top of each discussion, instructing users to provide constructive feedback.
+
+**Correct Answers:**
+- Highlighting and displaying constructive comments prominently on the homepage, so users see examples of positive engagement.
+- Hiding comments that may contain unconstructive criticism until reviewed by moderators.
+
+
